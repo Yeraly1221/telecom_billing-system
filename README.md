@@ -174,5 +174,4 @@ Steps:
 
 For questions or support, contact:
 
-* Email: [your-email@example.com](mailto:your-email@example.com)
-* GitHub: https://github.com/your-username
+* Email: eralysagyngali@gmail.com
